@@ -709,7 +709,7 @@ h6 {
 # Pricing Section
 --------------------------------------------------------------*/
 .gallery {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .gallery .gallery-item {
@@ -1226,11 +1226,11 @@ h6 {
   text-transform: uppercase;
   transition: 0.3s;
   color: #fff;
-  background: var(--color-primary);
+  background: #000;
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #000;
 }
 
 @media (max-width: 768px) {
