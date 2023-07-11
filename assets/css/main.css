@@ -131,11 +131,11 @@ h6 {
   text-transform: uppercase;
   transition: 0.3s;
   color: #fff;
-  background: var(--color-primary);
+  background: #000;
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: var(--color-primary);
 }
 
 /*--------------------------------------------------------------
