@@ -34,8 +34,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: var(--font-default);
-  color: var(--color-default);
-  background-color: #000;
+  color: #000;
+  background-color: #c9c9c970;
 }
 
 a {
@@ -91,7 +91,7 @@ h6 {
   font-size: 36px;
   font-weight: 700;
   font-family: var(--font-secondary);
-  color: #fff;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
@@ -106,7 +106,7 @@ h6 {
 .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #fff;
+  color: #000;
   font-family: var(--font-secondary);
 }
 
@@ -117,7 +117,7 @@ h6 {
 }
 
 .page-header p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #000;
 }
 
 .page-header .cta-btn {
@@ -286,7 +286,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #000;
+  background-color: #c9c9c970;
 }
 
 .header .logo {
@@ -376,8 +376,8 @@ h6 {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 13px;
-    font-weight: 400;
-    color: rgba(255, 255, 255, 0.5);
+    font-weight: 500;
+    color: #000;
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -393,7 +393,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #000;
   }
 
   .navbar .dropdown ul {
@@ -1065,14 +1065,14 @@ h6 {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #000;
 }
 
 .contact .info-item p {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
-  color: #fff;
+  color: #000;
 }
 
 .contact .info-item:hover i {
@@ -1185,10 +1185,10 @@ h6 {
 
 .hero h2 {
   margin: 0 0 10px 0;
-  font-size: 38px;
-  font-weight: 700;
-  color: #fff;
-  font-family: var(--font-secondary);
+    font-size: 35px;
+    font-weight: 700;
+    color: #000;
+    font-family: cursive;
 }
 
 .hero h2 span {
@@ -1210,7 +1210,7 @@ h6 {
 }
 
 .hero p {
-  color: rgba(255, 255, 255, 0.6);
+  color: #000;
   margin-bottom: 30px;
   font-size: 18px;
 }
@@ -1251,14 +1251,14 @@ h6 {
 
 .footer .copyright {
   text-align: center;
-  color: rgba(255, 255, 255, 0.8);
+  color: #000;
 }
 
 .footer .credits {
   padding-top: 6px;
   text-align: center;
   font-size: 13px;
-  color: rgba(255, 255, 255, 0.8);
+  color: #000;
 }
 
 .footer .credits a {
