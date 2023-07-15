@@ -1229,6 +1229,7 @@ h6 {
     transition: 0.3s;
     color: #fff;
     background: #000;
+    margin-bottom: 8px;
 }
 
 .hero .btn-get-started:hover {
