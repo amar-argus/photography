@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /**
    * Preloader
    */
-  const preloader = document.querySelector('.loader');
+  const preloader = document.querySelector('loader');
   if (preloader) {
     window.addEventListener('load', () => {
       setTimeout(() => {
